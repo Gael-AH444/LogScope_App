@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LogScope.Cli/LogScope.Cli.csproj" />
+    <Project Path="src/LogScope.Core/LogScope.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LogScope.Tests/LogScope.Tests.csproj" />
+  </Folder>
+</Solution>
